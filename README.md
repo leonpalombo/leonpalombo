@@ -1,26 +1,32 @@
 ## Olá, sou o Leonardo! 👋
 
-Sou Analista de Qualidade de Software formado em Análise e Desenvolvimento de Sistemas, com foco em melhoria de processos, validação de funcionalidades e prevenção de defeitos ao longo do ciclo de desenvolvimento.
+Sou Analista de Qualidade de Software (QA) formado em Análise e Desenvolvimento de Sistemas, com foco em qualidade como processo dentro do ciclo de desenvolvimento.
 
-🧪 Atuação em QA
-• Execução de testes manuais, exploratórios e regressivos
-• Análise funcional de requisitos e validação de regras de negócio
-• Criação e organização de cenários e casos de teste
+Vejo QA além da execução de testes: entender requisitos, identificar riscos cedo e contribuir para que o produto chegue mais estável ao usuário.
+
+🧪 Atuação em QA <br>
+• Testes manuais, exploratórios e regressivos
+• Análise funcional de requisitos e regras de negócio
+• Criação de cenários e casos de teste
 • Apoio à validação de funcionalidades antes de releases
 
-🐞 Gestão de defeitos
+🐞 Gestão de defeitos <br>
 • Registro de bugs com passos de reprodução claros e evidências
 • Comunicação com desenvolvedores para investigação de falhas
 • Acompanhamento e reteste de correções
 
-📊 Processo e Qualidade
+📊 Processo e Qualidade <br>
 • Documentação de testes e relatórios de qualidade
 • Testes exploratórios orientados a risco
 • Organização de atividades de QA e acompanhamento de demandas
+• Foco em prevenção de defeitos
 
-🌱 Desenvolvimento contínuo
-• Estudos e prática contínua em qualidade de software
-• Interesse em evolução para testes de API, automação de testes e práticas de qualidade orientadas à engenharia
+
+📚 Atualmente estudando <br>
+• Testes de API
+• Automação de testes
+• Qualidade orientada a engenharia
+• Boas práticas de QA
 
 
 # 💻 Tecnologias e ferramentas:
