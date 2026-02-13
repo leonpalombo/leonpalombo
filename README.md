@@ -1,6 +1,6 @@
 ## Olá, sou o Leonardo! 👋
 
-Sou Analista de Qualidade de Software (QA) formado em Análise e Desenvolvimento de Sistemas, com foco em qualidade como processo dentro do ciclo de desenvolvimento.
+Analista de Qualidade de Software (QA) formado em Análise e Desenvolvimento de Sistemas, com foco em qualidade como processo dentro do ciclo de desenvolvimento.
 
 Busco além da execução de testes: entender requisitos, identificar riscos cedo e contribuir para que o produto chegue mais estável ao usuário.
 
